@@ -8,6 +8,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 
 1. [Day 0: Hello, World](/Day%200/)
 2. [Day 1: Data Types](/Day%201/)
+3. [Day 2: Operators](/Day%202/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
