@@ -13,6 +13,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 4. [Day 4: Class vs. Instance](/Solutions/Day%204/)
 5. [Day 5: Loops](/Solutions/Day%205/)
 6. [Day 6: Let's Review](/Solutions/Day%206/)
+7. [Day 7: Arrays](/Solutions/Day%207/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
