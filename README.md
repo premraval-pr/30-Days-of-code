@@ -12,6 +12,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 3. [Day 3: Intro to Conditional Statements](/Solutions/Day%203/)
 4. [Day 4: Class vs. Instance](/Solutions/Day%204/)
 5. [Day 5: Loops](/Solutions/Day%205/)
+6. [Day 6: Let's Review](/Solutions/Day%206/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
