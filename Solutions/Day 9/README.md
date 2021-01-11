@@ -1,0 +1,50 @@
+# Objective
+
+Today, we are learning about an algorithmic concept called recursion. Check out the Tutorial tab for learning materials and an instructional video.
+
+### Recursive Method for Calculating Factorial
+
+-   factorial(n) = { 1/N x factorial(N-1)<sup>N <= 1</sup>otherwise }
+
+### Function Description
+
+Complete the factorial function in the editor below. Be sure to use recursion.
+
+factorial has the following paramter:
+
+-   int n: an integer
+
+### Returns
+
+-   int: the factorial of
+
+Note: If you fail to use recursion or fail to name your recursive function factorial or Factorial, you will get a score of .
+
+### Input Format
+
+A single integer, n (the argument to pass to factorial).
+
+### Constraints
+
+-   2 <= n <= 12
+-   Your submission must contain a recursive function named factorial.
+
+### Sample Input
+
+```
+3
+```
+
+### Sample Output
+
+```
+6
+```
+
+### Explanation
+
+Consider the following steps. After the recursive calls from step 1 to 3, results are accumulated from step 3 to 1.
+
+1. facrorial(3) = 3 x factorial(2) = 3 x 2 = 6
+2. facrorial(2) = 2 x factorial(1) = 2 x 1 = 2
+3. facrorial(1) = 1
