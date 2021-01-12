@@ -18,6 +18,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 9. [Day 9: Recursion 3](/Solutions/Day%209/)
 10. [Day 10: Binary Numbers](/Solutions/Day%2010/)
 11. [Day 11: 2D Arrays](/Solutions/Day%2011/)
+12. [Day 12: Inheritance](/Solutions/Day%2012/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
