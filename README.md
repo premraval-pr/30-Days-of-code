@@ -25,6 +25,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 16. [Day 16: Exceptions - String to Integer](/Solutions/Day%2016/)
 17. [Day 17: More Exceptions](/Solutions/Day%2017/)
 18. [Day 18: Queues and Stacks](/Solutions/Day%2018/)
+19. [Day 19: Interfaces](/Solutions/Day%2019/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
