@@ -23,6 +23,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 14. [Day 14: Scope](/Solutions/Day%2014/)
 15. [Day 15: Linked List](/Solutions/Day%2015/)
 16. [Day 16: Exceptions - String to Integer](/Solutions/Day%2016/)
+17. [Day 17: More Exceptions](/Solutions/Day%2017/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
