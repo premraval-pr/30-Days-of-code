@@ -20,6 +20,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 11. [Day 11: 2D Arrays](/Solutions/Day%2011/)
 12. [Day 12: Inheritance](/Solutions/Day%2012/)
 13. [Day 13: Inheritance](/Solutions/Day%2013/)
+14. [Day 14: Scope](/Solutions/Day%2014/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
