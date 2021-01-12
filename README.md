@@ -28,6 +28,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 19. [Day 19: Interfaces](/Solutions/Day%2019/)
 20. [Day 20: Sorting](/Solutions/Day%2020/)
 21. [Day 21: Generics](/Solutions/Day%2021/)
+22. [Day 22: Binary Search Trees](/Solutions/Day%2022/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
