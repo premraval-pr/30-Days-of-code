@@ -32,6 +32,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 23. [Day 23: BST Level-Order Traversal](/Solutions/Day%2023/)
 24. [Day 24: More Linked Lists](/Solutions/Day%2024/)
 25. [Day 25: Running Time and Complexity](/Solutions/Day%2025/)
+26. [Day 26: Nested Logic](/Solutions/Day%2026/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
