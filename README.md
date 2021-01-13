@@ -34,6 +34,7 @@ The language of these submissions in Python 3.0 and have cleared all the test-ca
 25. [Day 25: Running Time and Complexity](/Solutions/Day%2025/)
 26. [Day 26: Nested Logic](/Solutions/Day%2026/)
 27. [Day 27: Testing](/Solutions/Day%2027/)
+28. [Day 28: RegEx, Patterns, and Intro to Databases](/Solutions/Day%2028/)
 
 ```javascript
 var devQuote = "First, solve the problem. Then write the code.";
